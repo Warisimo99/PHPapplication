@@ -1,0 +1,22 @@
+# Configuration files
+config/database.php
+
+# Dependency directories
+vendor/
+node_modules/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
